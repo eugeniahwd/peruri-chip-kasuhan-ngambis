@@ -1,0 +1,9 @@
+Time resolution is 1 ps
+NORMAL TEST
+TAG      = f7bc83f430538424b13298e6aa6fb143ef4d59a14946175997479dbc2d1a3cd8
+EXPECTED = f7bc83f430538424b13298e6aa6fb143ef4d59a14946175997479dbc2d1a3cd8
+PASS: HMAC-SHA256 correct
+FAULT INJECTION TEST
+FAULT = 1, TAG = 0000000000000000000000000000000000000000000000000000000000000000
+PASS: fault detected -> output zeroized
+$finish called at time : 2746 ns : File "C:/Users/user/Downloads/SecHMAC_Vivado_Starter/tb_sechmac.sv" Line 106

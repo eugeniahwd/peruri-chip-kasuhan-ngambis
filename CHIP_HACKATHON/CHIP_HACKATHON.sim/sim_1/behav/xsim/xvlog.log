@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/user/Downloads/SecHMAC_Vivado_Starter/sechmac_hmac_sha256.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sechmac_hmac_sha256
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/user/Downloads/SecHMAC_Vivado_Starter/sha256_core.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sha256_core
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/user/Downloads/SecHMAC_Vivado_Starter/tb_sechmac.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb_sechmac
